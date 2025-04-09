@@ -1,0 +1,1 @@
+docker stop DDD_bigmarket
