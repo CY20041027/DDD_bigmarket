@@ -6,5 +6,4 @@
 
 
 库表设计
-
-![Uploading image.png…]()
+![屏幕截图 2025-04-09 192417](https://github.com/user-attachments/assets/bc392d29-3136-4efb-ab5c-80c691499f13)
